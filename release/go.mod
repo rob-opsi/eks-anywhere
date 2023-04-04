@@ -7,7 +7,7 @@ require (
 	github.com/aws/aws-sdk-go v1.38.40
 	github.com/aws/aws-sdk-go-v2 v1.5.0
 	github.com/aws/eks-distro-build-tooling/release v0.0.0-20210810165539-7d41d9b36b74
-	github.com/docker/docker v20.10.6+incompatible // indirect
+	github.com/docker/docker v20.10.24+incompatible // indirect
 	github.com/fsouza/go-dockerclient v1.7.2
 	github.com/go-git/go-git/v5 v5.3.0
 	github.com/mitchellh/go-homedir v1.1.0
